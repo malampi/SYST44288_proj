@@ -134,10 +134,7 @@ void *consumer(void *param) {
     int sleep_time=atoi(argv[1]);
     int prodNum=atoi(argv[2]);
     int consNum=atoi(argv[3]);
-
-    /* display arg values */
-    printf("%i - %i - %i\n",sleep_time,prodNum,consNum);
-
+    
     /* initialize variables */
     init();
 
