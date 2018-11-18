@@ -1,5 +1,6 @@
 /* Filename: prod_cons.c
-   Authors: Michael Alampi & Eddy Crowder */
+   Authors: Michael Alampi & Eddy Crowder 
+   Description: Producer–Consumer Problem using Pthreads */
 
 /* import libraries */
 #include "buffer.h"
