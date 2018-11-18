@@ -126,7 +126,7 @@ void *consumer(void *param) {
     int i;
     /* validate arg length */
     if (argc < 4) {
-        printf("missing argument\n");
+        printf("usage: main <INT> <INT> <INT>\n");
         exit(-1);
     }
 
