@@ -1,3 +1,6 @@
+/* Filename: prod_cons.c
+   Authors: Michael Alampi & Eddy Crowder */
+
 /* import libraries */
 #include "buffer.h"
 #include <stdlib.h>
